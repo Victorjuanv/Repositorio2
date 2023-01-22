@@ -9,4 +9,21 @@ h1{
 .csgo{
     border: 2px;
     border-color: black;
+    
+}
+p{
+    text-align: right;
+    
+}
+h2{
+    text-align: left;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.csgoimg{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #ee930a;
+    margin: none;
+    vertical-align: middle;
 }
