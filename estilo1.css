@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(238, 128, 210);
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: expanded;
+}
+
+table{
+    width: 100%;
+}
+td{
+    width: 100%;
+    
+}
+.boton1{
+    height: fit-content;
+     width: 100%;
+     align-items: center;
+     background-color: rgb(255, 240, 103);
+     
+ 
+ }
+.boton2{
+    height: fit-content;
+    width: 100%;
+    align-items: center;
+    background-color: rgb(34, 152, 255);
+
+
+}
+.boton3{
+    height: fit-content;
+    width: 100%;
+    align-items: center; 
+    background-color: rgb(255, 99, 99);
+}
+    
+
+img{
+    width: 150px;
+    height: 150px;
+    padding: 1px;
+
+}
+    
+
+
