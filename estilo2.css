@@ -6,13 +6,7 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-stretch: expanded;
 }
-.csgo{
-    border: 2px;
-    border-color: black;
-    height: 400px;
-    width: 400px;
-    position: relative;
-}
+
 
 h2{
     text-align: left;
@@ -25,5 +19,26 @@ h2{
 #textocsgo{
     display: inline-block;
     vertical-align: top;
-    
+    text-align: right;
+    width: 50%;
+}
+.divcontenedor
+{
+border:1px solid black;
+width:100%;
+height:auto;
+
+
+}
+ 
+.divA
+{
+float:left;
+
+
+}
+.divB
+{
+float:right;
+
 }
