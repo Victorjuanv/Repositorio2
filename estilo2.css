@@ -15,30 +15,36 @@ h2{
 }
 .csgoimg{
     float: left;
+    width: 80%;
+}
+.skyrimimg{
+    float: left;
+    width: 80%;
 }
 #textocsgo{
-    display: inline-block;
-    vertical-align: top;
-    text-align: right;
-    width: 50%;
+    font-family:'Geneva';
+    font-size: medium;
+    text-align: justify;
+
+    
 }
 .divcontenedor
 {
-border:1px solid black;
+
 width:100%;
 height:auto;
-
-
 }
  
 .divA
 {
 float:left;
-
+width: 30%;
 
 }
 .divB
 {
+   
+width: 70%;
 float:right;
 
 }
