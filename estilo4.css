@@ -19,7 +19,8 @@ h2{
 }
 .arceusmimg{
     float: left;
-    width: 50%;
+    max-width:80%;
+    height:auto;
 }
 #textoarceus{
     font-family:'Geneva';
