@@ -25,6 +25,7 @@ h2{
     font-family:'Geneva';
     font-size: medium;
     text-align: justify;
+    margin-top: 30px;
 
     
 }
@@ -38,8 +39,11 @@ h2{
     margin: auto;
     position: relative;
     width:100%;
-    height:50%;
     background-color: aquamarine;
+}
+.divcontenedor2{
+    margin-top: 25%;
+    float: initial;
 }
  
 .divA
