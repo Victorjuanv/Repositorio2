@@ -22,10 +22,12 @@ h2{
     width: 80%;
 }
 #textocsgo{
+    margin-right: 30px;
     font-family:'Geneva';
     font-size: medium;
     text-align: justify;
-    margin-top: 30px;
+    
+    
 
     
 }
@@ -42,7 +44,7 @@ h2{
     background-color: aquamarine;
 }
 .divcontenedor2{
-    margin-top: 25%;
+    margin-top: 20%;
     float: initial;
 }
  
