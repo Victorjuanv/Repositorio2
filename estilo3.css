@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(34, 152, 255);
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: expanded;
+}
+
+
+h2{
+    text-align: left;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ragnarokimg{
+    float: left;
+    width: 80%;
+}
+.skyrimimg{
+    float: left;
+    width: 80%;
+}
+#textoorigins{
+    font-family:'Geneva';
+    font-size: medium;
+    text-align: justify;
+    margin-top: 30px;
+
+    
+}
+
+.divgeneral{
+    height: fit-content;
+    width: 100%;
+}
+.divcontenedor
+{
+    margin: auto;
+    position: relative;
+    width:100%;
+    background-color: aquamarine;
+}
+.divcontenedor2{
+    margin-top: 20%;
+    float: initial;
+}
+ 
+.divA
+{
+float:left;
+width: 30%;
+
+}
+.divB
+{
+   
+width: 70%;
+float:right;
+
+}
