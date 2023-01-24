@@ -41,8 +41,8 @@ h2{
     background-color: aquamarine;
 }
 .divcontenedor2{
-    margin-top: 50%;
-    float: initial;
+    margin-top: 40%;
+    
 }
  
 .divA
@@ -57,4 +57,7 @@ width: 30%;
 width: 70%;
 float:right;
 
+}
+.link{
+    color: black;
 }
